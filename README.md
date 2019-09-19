@@ -1,2 +1,2 @@
-# VMware Script Center
-Powershell and PowerCli Scripts
+# VMware Scripts Share
+Powershell and PowerCli Scripts for Vmware Vcenter Administrators
